@@ -4,7 +4,7 @@ ESE project repo need to upload
 Name: Sneha Padgaonkar \
 PRN: 22070122213 
 
-# Task 8: Autoscaling deployment (app: iot-sensor-api)
+## Task 8: Autoscaling deployment (app: iot-sensor-api)
 - **Repository:** `ks8-autoscale-demo`  
 - **Objective:**  
   Deploy `iot-sensor-api` app with resource limits and configure Horizontal Pod Autoscaler.  
